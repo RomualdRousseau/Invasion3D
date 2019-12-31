@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Invasion 3D</string>
+<string name="options_label">Options</string>
+<string name="gallery_label">Gallery</string>
+<string name="credits_label">Credits</string>
+<string name="new_game_label">New</string>
+<string name="continue_game_label">Continue</string>
+<string name="quit_label">Quit</string>
+<string name="back_label">Back</string>
+<string name="next_label">Next</string>
+<string name="credits_text">Version: 1.0\n\nCreated and Developed by:\n\tRomuald Rousseau\n\nSpecial Thanks to:\n\tM</string>
+<string name="please_wait_label">Please wait while loading...</string>
+<string name="save_label">Save</string>
+<string name="enter_your_name_label">Congratulation! You entered in the Hall of Fame.\nEnter your name:</string>
+<string name="music_label">Music</string>
+<string name="on_label">on</string>
+<string name="off_label">off</string>
+<string name="low_label">low</string>
+<string name="medium_label">med</string>
+<string name="high_label">high</string>
+<string name="sound_label">Sound</string>
+<string name="auto_shoot_label">Auto Shoot</string>
+<string name="graphic_label">Graphic</string>
+<string name="control_label">Control</string>
+<string name="tilt_label">tilt</string>
+<string name="touch_label">touch</string>
+<string name="high_scores_label">Hall of Fame</string>
+<string name="light_fighter_label">Light Fighter</string>
+<string name="human_label">human</string>
+<string name="alien_label">alien</string>
+</resources>
