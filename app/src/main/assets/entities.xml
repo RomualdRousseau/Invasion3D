@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entities>
+    <entity name="Phoenix" shipClass="@string/light_fighter_label" race="@string/human_label"
+        level="0">
+        <attributes>
+            <life>3.0f</life>
+            <size>1.0f</size>
+        </attributes>
+        <assets>
+            <MeshFilePath>meshes/submarine.obj</MeshFilePath>
+            <SkinFilePath>meshes/submarine_skin.png</SkinFilePath>
+            <BulletFilePath>meshes/phoenix_beam.obj</BulletFilePath>
+        </assets>
+    </entity>
+    <entity name="Predator" shipClass="@string/light_fighter_label" race="@string/alien_label"
+        level="65535">
+        <attributes>
+            <life>1.0f</life>
+            <size>1.0f</size>
+        </attributes>
+        <assets>
+            <meshFilePath>meshes/predator.obj</meshFilePath>
+            <skinFilePath>meshes/predator_skin.png</skinFilePath>
+            <bulletFilePath>meshes/predator_bullet.obj</bulletFilePath>
+        </assets>
+    </entity>
+    <entity name="Predator" shipClass="@string/light_fighter_label" race="@string/alien_label"
+        level="65534">
+        <attributes>
+            <life>1.0f</life>
+            <size>1.0f</size>
+        </attributes>
+        <assets>
+            <MeshFilePath>meshes/phoenix.obj</MeshFilePath>
+            <SkinFilePath>meshes/phoenix_skin.png</SkinFilePath>
+            <bulletFilePath>meshes/predator_bullet.obj</bulletFilePath>
+        </assets>
+    </entity>
+</entities>
+
